@@ -14,7 +14,7 @@
 
 ## 📢 Visite o site
 
-[Animation-menu](https://robotsdeveloper.github.io/Animation-menu/).
+[Animation-menu](https://lobinhodev.github.io/Animation-menu/).
 
 ## 🧠 Tecnologias
 
